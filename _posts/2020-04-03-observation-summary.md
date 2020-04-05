@@ -10,7 +10,7 @@ This post summarizes the butterfly observations uploaded to the corresponding [i
 
 这篇博文总结了截止2020年4月3日，用户上传到[iNaturalist中国蝴蝶观测项目](https://www.inaturalist.org/projects/butterflies-of-china)上的蝴蝶记录。以下总结只针对中国内地/大陆的数据，其他地区请点击：[香港](https://www.inaturalist.org/projects/butterflies-of-hong-kong-8af315f2-e6d6-4956-b73a-aad48af9615b), [台湾](https://www.inaturalist.org/projects/butterflies-of-taiwan)（暂无澳门）。感谢所有分享过数据给iNat的用户，特别鸣谢[sunwenhao90](https://www.inaturalist.org/people/sunwenhao90)在鉴定上做的大量工作。
 
-### Distribution of records through time <br/> 记录随时间的分布
+### Distribution of the records through time <br/> 记录随时间的分布
 
 #### Time of the observation 记录时间
 
@@ -22,7 +22,7 @@ The website iNaturalist was first launched back in 2008 as a final project of th
   <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/Summary_20200403/MonthlyUploads_2013_Jan_2020_Apr.svg?sanitize=true">
 </p>
 
-### Distribution of records through taxonomy <br/> 记录在分类树上的分布
+### Distribution of the records through taxonomy <br/> 记录在分类树上的分布
 
 There are, to date, around 711 distinct butterfly species observed the Mainland China database. While the exact taxonomy is still debatable (e.g. whether *Hestina nama* should be *Hestinalis nama*), the overall distribution across the butterfly phylogeny is robust to such minor effect. We use the [NCBI taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) as a backbone to generate the classification tree among 711 species, as shown in the following figure. (Heads-up: this is not a phylogeny.) Each tip represents a unique species, and a multispecies genus is represented by a node at the second level. The phylogenetic relationship among families is omitted, and we still treat Riodinidae as a separate family, as opposed to treating it as a subfamily in Lycaenidae.
 
