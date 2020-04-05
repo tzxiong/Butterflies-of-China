@@ -12,9 +12,17 @@ This post summarizes the butterfly observations uploaded to the corresponding [i
 
 ## Distribution of the records through time <br/> 记录随时间的分布
 
-#### Time of the observation 记录时间
+#### Time of the observations 记录时间
 
-#### Time of the upload 上传时间
+Most observations are confined to the last five years---which is probably attributed to the popularity of high-quality cellphones and the popularization of iNat itself. Interestingly, we still get a small proportion of data from as early as the first 3 years of this century. Are such observation time accurate or misleading? Most observations were made during the warmer half of each year, as is shown distinctly by 5 peaks during every five-year interval. 
+
+大多数记录都成型于过去的五年中---应该有相当一部分归功于智能手机/相机的普及，以及 iNat 平台的不断成熟。有趣的是，我们仍然有少许21世纪头三年的记录，这些记录的时间信息会靠谱吗？此外，每个5年区间中都具有5个几乎等距的峰值，说明大多数记录都完成于每年中比较温暖的半年。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/Summary_20200403/MonthlyObserved_2000_Jan_2020_Apr.svg?sanitize=true">
+</p>
+
+#### Time of the uploads 上传时间
 
 The website iNaturalist was first launched back in 2008 as a final project of three students' Master thesis. We see that the first butterfly record from Mainland China appeared around early 2013, 5 years after its birth. Large amount of butterfly data were generated mostly in the last three years. Although uploading observations reaches the peak usually in summer, there are also plenty of uploads within the recent winter. 
 
