@@ -5,9 +5,10 @@ author: Tianzhu Xiong
 categories: summary
 ---
 
-*This post summarizes the butterfly observations uploaded to the corresponding [iNaturalist project](https://www.inaturalist.org/projects/butterflies-of-china) up to April 3rd, 2020. Only records from Mainland China is included for analysis (For other regions please click: [Hong Kong](https://www.inaturalist.org/projects/butterflies-of-hong-kong-8af315f2-e6d6-4956-b73a-aad48af9615b), [Taiwan](https://www.inaturalist.org/projects/butterflies-of-taiwan). Macau is currently unavailable).*
+### In short... <br/> 前言...
+This post summarizes the butterfly observations uploaded to the corresponding [iNaturalist project](https://www.inaturalist.org/projects/butterflies-of-china) up to April 3rd, 2020. Only records from Mainland China is included for analysis (For other regions please click: [Hong Kong](https://www.inaturalist.org/projects/butterflies-of-hong-kong-8af315f2-e6d6-4956-b73a-aad48af9615b), [Taiwan](https://www.inaturalist.org/projects/butterflies-of-taiwan). Macau is currently unavailable). We appreciated all members of the project, including all uploaders for sharing their data to the iNat platform. Special thanks to [sunwenhao90](https://www.inaturalist.org/people/sunwenhao90) for his huge effort in identification.
 
-*这篇博文总结了截止2020年4月3日，用户上传到[iNaturalist中国蝴蝶观测项目](https://www.inaturalist.org/projects/butterflies-of-china)上的蝴蝶记录。以下总结只针对中国内地/大陆的数据，其他地区请点击：[香港](https://www.inaturalist.org/projects/butterflies-of-hong-kong-8af315f2-e6d6-4956-b73a-aad48af9615b), [台湾](https://www.inaturalist.org/projects/butterflies-of-taiwan)（暂无澳门）。*
+这篇博文总结了截止2020年4月3日，用户上传到[iNaturalist中国蝴蝶观测项目](https://www.inaturalist.org/projects/butterflies-of-china)上的蝴蝶记录。以下总结只针对中国内地/大陆的数据，其他地区请点击：[香港](https://www.inaturalist.org/projects/butterflies-of-hong-kong-8af315f2-e6d6-4956-b73a-aad48af9615b), [台湾](https://www.inaturalist.org/projects/butterflies-of-taiwan)（暂无澳门）。感谢所有分享过数据给iNat的用户，特别鸣谢[sunwenhao90](https://www.inaturalist.org/people/sunwenhao90)在鉴定上做的大量工作。
 
 ### Distribution of records through time <br/> 记录随时间的分布
 
