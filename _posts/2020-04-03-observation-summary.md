@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Observation Summary 2020.APR.03 <br/> 观测记录小结
+title: Observation Summary 2020.APR.03 观测记录小结
 author: Tianzhu Xiong
 categories: summary
 ---
