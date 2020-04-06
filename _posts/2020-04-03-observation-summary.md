@@ -26,6 +26,8 @@ Most observations are confined to the last five years---which is probably attrib
 
 The website iNaturalist was first launched back in 2008 as a final project of three students' Master thesis. We see that the first butterfly record from Mainland China appeared around early 2013, 5 years after its birth. Large amount of butterfly data were generated mostly in the last three years. Although uploading observations reaches the peak usually in summer, there are also plenty of uploads within the recent winter. 
 
+iNaturalist 首次亮相是在2008年，最初来自于伯克利大学三位研究生的毕业论文。在中国大陆/内地的蝴蝶记录最早上传于2013年，也就是 iNat 诞生5年后。这个项目中绝大部分的记录都是由用户在过去3年内传至平台。虽然夏天时用户上传记录的数量最多，但最近的冬季里也有较可观的上传量。
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/Summary_20200403/MonthlyUploads_2013_Jan_2020_Apr.svg?sanitize=true">
 </p>
