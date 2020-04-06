@@ -65,4 +65,12 @@ Here is a summary of 50 most observed species in the database. Note that not a s
 
 ## Distribution of the records through space <br/> 记录在空间上的分布
 
-(TBD)
+For visualization folks, here is just another map of the records distributed across the Mainland China. Each black dot is a single observation record, and its spatial density is estimated from QGIS (1 degree radius) as a heat map. Although these records encompass a wide-range of geographic localities as far as Western Xinjiang, most records are from a number of metropolitan areas: the Shanghai-Hangzhou-Nanjing triangle, Guangzhou-Shenzhen, Beijing, Changsha, Kunming, Chengdu. Two top hotspots, however, are of distinct reasons: the one at Xishuangbanna (lower left in Yunnan) is probably due to multiple active users from [Xishuangbanna Tropical Botanical Garden](http://english.xtbg.cas.cn/); the Hainan hotspot is entirely contributed from our member [thelittleman](https://www.inaturalist.org/people/thelittleman), who holds a steady observation site in Sanya. This partially explained why many of the popular species are of (sub)tropical origin!
+
+下图是观测记录在中国大陆/内地的地理分布情况。每个黑点代表一个观测记录，其空间分布的密度（半径1度）由 QGIS 估测，我们把它画成一个热度图叠加在上面。虽然这些记录乍一看来自中国许多地方，但是考虑其相对数量后，其实集中在几个主要的城市区间：长三角、珠三角、北京、长沙、昆明、成都。此外，密度最高的两处有其独特的原因：云南最南端西双版纳[热带植物园](http://www.xtbg.cas.cn/)的许多用户贡献了当地大量的热带蝴蝶数据，而海南岛的热点完全是因为我们的成员 [thelittleman](https://www.inaturalist.org/people/thelittleman) 长期在三亚上传记录所致。这也部分地解释了为何观测到的常见物种中有相当一部分的（亚）热带物种。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/Summary_20200403/SpatialDistribution_observations_20200403_wDisclaimer.png">
+  Spatial distribution of all the observations. (*please see the disclaimer for border issues*)
+</p>
+
