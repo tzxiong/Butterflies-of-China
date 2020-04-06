@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Observation Summary (Mainland China) 中国大陆/内地观测记录小结
+title: Observation Summary (Mainland China) 中国大陆/内地观测记录小结 - 2020APR03
 author: Tianzhu Xiong
 categories: summary
 ---
