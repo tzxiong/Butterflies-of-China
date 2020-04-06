@@ -55,9 +55,9 @@ There are a few visible trends from the figure:
 
 #### Highlight species 代表物种
 
-Here is a summary of 50 most observed species in the database. Note that not a single Hesperiidae is included!
+Here is a summary of 50 most observed species in the database. Note that not a single Hesperiidae is included! Unsurprisingly, *[Pseudozizeeria maha](https://en.wikipedia.org/wiki/Pseudozizeeria_maha)* stands out as the most observed species, closely followed by *[Papilio polytes](https://en.wikipedia.org/wiki/Papilio_polytes)* and other common species.
 
-下图显示的是观测记录前50名的蝴蝶物种。其中居然没有一个弄蝶！
+下图显示的是观测记录前50名的蝴蝶物种。其中居然没有一个弄蝶！酢酱灰蝶毫无意外地登顶（实在是太多了），玉带凤蝶和其他常见种紧随其后。
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/Summary_20200403/TotalUploadsPerSpecies_Top50_2013_Jan_2020_Apr.svg?sanitize=true">
