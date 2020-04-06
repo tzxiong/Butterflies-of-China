@@ -32,6 +32,30 @@ iNaturalist 首次亮相是在2008年，最初来自于伯克利大学三位研�
   <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/Summary_20200403/MonthlyUploads_2013_Jan_2020_Apr.svg?sanitize=true">
 </p>
 
+#### Seasonality 季节性
+
+Most butterflies are highly seasonal. We all enjoy watching groups of males puddling over the stream banks under the summer sun, but hardly can we find any (adult) butterflies in winter. The following figure plots the fraction of observations that are made each month against 12 months of a year. Larger radius means relatively higher number of individuals are observed during that time frame. Four seasons are colored as blue, green, red and orange, corresponding to winter, spring, summer and autumn. We see that:
+* More observations are made in warmer months for all butterfly families (more active adults);
+* Pieridae is the only family to peak *not* in summer;
+* Papilionidae has a huge surge in summer but comparatively scarce around other times, especially, very little is observed in winter;
+* Pieridae, Hesperiidae and Riodinidae all have a distinct winter "generation" around December to January. The essence of this generation is unclear, probably caused by records from the hotter areas;
+* Lycaenidae shows very weak seasonal variation;
+* Nymphalidae in general looks like Papilionidae, but it also has a small winter surge. It can be attributed to some overwintering adults occasionally been captured.
+* But it is highly naive to adopt such conclusion at any lower level of taxonomy, as they are only observed as an aggregate pattern across each family.
+
+大多数蝴蝶都具有强烈的季节性。我们都熟知夏日高温下群蝶飞舞的场面，但在冬天就难以寻觅蝴蝶的踪影。下面这张图统计了每个科的蝴蝶在不同月份中的*相对*数量，即每个月的总观测量除以全年该科的观测量。半径大的点表示相对数量较高。四个季节分别对应四种颜色（冬-蓝，春-绿，夏-红，秋-黄）。
+* 对所有科而言，在温暖的月份中观察记录都更多；
+* 粉蝶是唯一在夏天*达不到*相对数量顶点的科；
+* 凤蝶在夏天发生量远大于其他时间，同时在冬季几乎毫无记录；
+* 粉蝶、弄蝶和蚬蝶都似乎具有一个独特的冬季“世代”，这一“世代”的本质还不清楚，可能是由偏热带地区的记录导致的；
+* 灰蝶整体的季节性弱于其他的科
+* 蛱蝶整体而言和凤蝶相似，但冬季也有一个小范围的峰值，可能是因为某些冬季以成虫越冬的个体偶尔被发现所致。
+* 因为这些结论是整个科合起来看才有，所以并不能向下套用在具体的种、属上。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/Summary_20200403/SeasonalDensity_byFamily_2013_Jan_2020_Apr.svg?sanitize=true">
+</p>
+
 ## Distribution of the records through taxonomy <br/> 记录在分类树上的分布
 
 There are, to date, around 711 distinct butterfly species observed the Mainland China database. While the exact taxonomy is still debatable (e.g. whether *Hestina nama* should be *Hestinalis nama*), the overall distribution across the butterfly phylogeny is robust to such minor effect. We use the [NCBI taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) as a backbone to generate the classification tree among 711 species, as shown in the following figure. (Heads-up: this is not a phylogeny.) To read the figure, each tip represents a unique species, and a multispecies genus is represented by a node at the second level. The phylogenetic relationship among families is omitted, and we still treat Riodinidae as a separate family, as opposed to treating it as a subfamily in Lycaenidae. The popularity of each species, i.e. the total number of observations per species, is plotted in the log-scale around the outter ring. <span style="color:green"> Green = low number of records </span> and <span style="color:red"> Red = high number of records </span>
@@ -52,8 +76,6 @@ There are a few visible trends from the figure:
   <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/Summary_20200403/species_list_ncbi_tree_circular_observation_counts_20200404.svg?sanitize=true">
   （Open the image in a new tab to view under higher resolution. 可在新页面中打开图片查看原图）
 </p>
-
-#### Highlight species 代表物种
 
 Here is a summary of 50 most observed species in the database. Note that not a single Hesperiidae is included! Unsurprisingly, *[Pseudozizeeria maha](https://en.wikipedia.org/wiki/Pseudozizeeria_maha)* stands out as the most observed species, closely followed by *[Papilio polytes](https://en.wikipedia.org/wiki/Papilio_polytes)* and other common species.
 
