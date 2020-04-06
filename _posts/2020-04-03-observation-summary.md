@@ -53,7 +53,7 @@ There are a few visible trends from the figure:
   （Open the image in a new tab to view under higher resolution. 可在新页面中打开图片查看原图）
 </p>
 
-#### Highlight species <br/> 代表物种
+#### Highlight species 代表物种
 
 Here is a summary of 50 most observed species in the database. Note that not a single Hesperiidae is included!
 
