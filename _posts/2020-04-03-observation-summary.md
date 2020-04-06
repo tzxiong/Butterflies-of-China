@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Observation Summary 2020.APR.03 观测记录小结
+title: Observation Summary (Mainland China) 中国大陆/内地观测记录小结
 author: Tianzhu Xiong
 categories: summary
 ---
@@ -34,16 +34,16 @@ iNaturalist 首次亮相是在2008年，最初来自于伯克利大学三位研�
 
 #### Seasonality 季节性
 
-Most butterflies are highly seasonal. We all enjoy watching groups of males puddling over the stream banks under the summer sun, but hardly can we find any (adult) butterflies in winter. The following figure plots the fraction of observations that are made each month against 12 months of a year. Larger radius means relatively higher number of individuals are observed during that time frame. Four seasons are colored as blue, green, red and orange, corresponding to winter, spring, summer and autumn. We see that:
+Most butterflies are highly seasonal. We all enjoy watching groups of males puddling over the stream banks under the summer sun, but hardly can we find any (adult) butterflies in winter. How does that pattern vary across different butterfly families? To answer that question, the following figure plots the fraction of observations that are made each month against 12 months of a year. Larger radius means relatively higher number of individuals are observed during that time frame. Four seasons are colored as blue, green, red and orange, corresponding to winter, spring, summer and autumn. We see that:
 * More observations are made in warmer months for all butterfly families (more active adults);
 * Pieridae is the only family to peak *not* in summer;
-* Papilionidae has a huge surge in summer but comparatively scarce around other times, especially, very little is observed in winter;
+* Papilionidae has a huge surge in summer but comparatively scarce around other times, especially, very few is observed in winter;
 * Pieridae, Hesperiidae and Riodinidae all have a distinct winter "generation" around December to January. The essence of this generation is unclear, probably caused by records from the hotter areas;
 * Lycaenidae shows very weak seasonal variation;
 * Nymphalidae in general looks like Papilionidae, but it also has a small winter surge. It can be attributed to some overwintering adults occasionally been captured.
-* But it is highly naive to adopt such conclusion at any lower level of taxonomy, as they are only observed as an aggregate pattern across each family.
+* It is highly naive to adopt such conclusion at any lower level of taxonomy, as they are only observed as an aggregate pattern across each family.
 
-大多数蝴蝶都具有强烈的季节性。我们都熟知夏日高温下群蝶飞舞的场面，但在冬天就难以寻觅蝴蝶的踪影。下面这张图统计了每个科的蝴蝶在不同月份中的*相对*数量，即每个月的总观测量除以全年该科的观测量。半径大的点表示相对数量较高。四个季节分别对应四种颜色（冬-蓝，春-绿，夏-红，秋-黄）。
+大多数蝴蝶都具有强烈的季节性。我们都熟知夏日高温下群蝶飞舞的场面，但在冬天就难以寻觅蝴蝶的踪影。不同科的蝴蝶的季节性有什么不同呢？下面这张图统计了每个科的蝴蝶在不同月份中的*相对*数量，即每个月的总观测量除以全年该科的观测总量。半径大的点表示相对数量较高。四个季节分别对应四种颜色（冬-蓝，春-绿，夏-红，秋-黄）。
 * 对所有科而言，在温暖的月份中观察记录都更多；
 * 粉蝶是唯一在夏天*达不到*相对数量顶点的科；
 * 凤蝶在夏天发生量远大于其他时间，同时在冬季几乎毫无记录；
@@ -96,3 +96,35 @@ For visualization folks, here is just another map of the records distributed acr
   Spatial distribution of all the observations. (*please see the disclaimer for border issues*)
 </p>
 
+## Conclusion and further note
+
+There are a number of things to consider before starting to believe any of our conclusions is true:
+* Are our data large enough to be statistically powerful?
+* Any significant observer bias because a few members are a bit *too* active (in a good way, certainly:)?
+* Are there false identifications that are not discovered by all the identifiers?
+* Is our coverage of the geographic sites and phylogeny meaningful to generalize to larger areas?
+
+The only way to mitigate these negatives would be to recruit more interested people to participate, identify, and discover together. I feel very grateful that a number of friends, some of whom I have only known over the Internet, are willing to share their photos with great generosity to this platform, I want to say a big "thank you"!
+
+Finally, as the nature of iNaturalist is a portal rather than some private research facility, anybody can start his/her own project and analyze the data, as long as you cite it properly. It is both fun and educative, so why not give it a try?
+
+As for the future plan of this specific project, I will still try to update the summary in a once-or-twice-a-year fashion. I am going to make the report as publically available as possible, as anything going into academic journals is likely going to be too boring to write and read!
+
+在开始相信前面提到的结论是真的之前，有一些细节还需斟酌一下：
+* 用来分析的数据集是否已经大到有足够的统计效果呢？
+* 是否因为部分用户*过于*活跃导致记载的数据有偏差（当然，活跃是最好的：）？
+* 是否有所有鉴定人都没有发现的鉴定错误？
+* 记录涵盖的地理区域是否足够多样，广阔，均衡？
+
+消除这些问题的办法，不外乎是邀请更多有兴趣的自然爱好者加入 iNat, 增加鉴定量，一起探索。我们还处于数据收集、整理的早期，尤其对大陆/内地的许多同学来说iNat这个站还有些冷门，也不方便访问。所以，对于一部分我只在网上认识的朋友能够上传许多他们拍摄的蝴蝶照片到这个平台里，我想说一声谢谢！
+
+最后，iNat 作为数据传输平台，本身并非研究机构，每个用户都能够建立、管理自己的项目，也能够分析上面的数据（只要妥善地引用即可）。这件事寓教于乐，值得尝试。
+
+关于这个项目未来的走向，我仍然会以每年1到2次的频率发布总结，而且这些总结都一定会是公开的。
+
+## References 引用文献
+1. Wu, C.S. and Hsu, Y.F., 2017. Butterflies of China. Fuzhou: The Straits Publishing House.
+2. iNaturalist. Available from https://www.inaturalist.org. Accessed Apr-03-2020.
+3. Bezanson, J., Karpinski, S., Shah, V.B. and Edelman, A., 2012. Julia: A fast dynamic language for technical computing. arXiv preprint arXiv:1209.5145. (**All simple plots are generated by Julia 1.3**)
+4. Letunic, I. and Bork, P., 2019. Interactive Tree Of Life (iTOL) v4: recent updates and new developments. Nucleic acids research, 47(W1), pp.W256-W259. (**Tree generation**)
+5. QGIS Development Team (YEAR). QGIS Geographic Information System. Open Source Geospatial Foundation Project. http://qgis.osgeo.org (**Spatial map**)
