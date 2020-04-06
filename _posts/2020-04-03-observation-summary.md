@@ -62,3 +62,7 @@ Here is a summary of 50 most observed species in the database. Note that not a s
 <p align="center">
   <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/Summary_20200403/TotalUploadsPerSpecies_Top50_2013_Jan_2020_Apr.svg?sanitize=true">
 </p>
+
+## Distribution of the records through space <br/> 记录在空间上的分布
+
+(TBD)
