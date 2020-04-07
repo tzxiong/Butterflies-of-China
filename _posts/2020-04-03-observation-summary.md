@@ -4,7 +4,7 @@ title: Observation Summary (Mainland China) 中国大陆/内地观测记录小�
 author: Tianzhu Xiong
 categories: summary
 ---
-
+<sub> (Last updated on: 2020-APR-06) </sub>
 ## In short... <br/> 前言...
 This post summarizes the butterfly observations uploaded to the corresponding [iNaturalist project](https://www.inaturalist.org/projects/butterflies-of-china) up to April 3rd, 2020. Only records from Mainland China is included for analysis (For other regions please click: [Hong Kong](https://www.inaturalist.org/projects/butterflies-of-hong-kong-8af315f2-e6d6-4956-b73a-aad48af9615b), [Taiwan](https://www.inaturalist.org/projects/butterflies-of-taiwan). Macau is currently unavailable). We appreciated all members of the project, including all uploaders for sharing their data to the iNat platform. Special thanks to [sunwenhao90](https://www.inaturalist.org/people/sunwenhao90) for his huge effort in identification.
 
