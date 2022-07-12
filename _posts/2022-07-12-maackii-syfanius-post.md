@@ -5,7 +5,7 @@ author: Tianzhu Xiong
 categories: Research
 ---
 <sub> (Last updated on: 2020-APR-06) </sub>
-## Foreword... <br/> 前言...
+## Foreword <br/> 前言
 
 Recently our lab published a new research on a hybrid zone between *Papilio maackii* and *Papilio syfanius* in SW China. Here I use simple words to explain what we found from this paper:
 
