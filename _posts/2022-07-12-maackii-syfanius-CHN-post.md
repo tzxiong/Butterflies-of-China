@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research digest - 西番翠凤蝶是绿带翠凤蝶吗？
+title: Research digest - 西番翠凤蝶和绿带翠凤蝶：过渡时期的物种
 author: Tianzhu Xiong
 categories: Research
 ---
