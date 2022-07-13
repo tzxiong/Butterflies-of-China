@@ -4,7 +4,7 @@ title: Research digest - 西番翠凤蝶=绿带翠凤蝶？
 author: Tianzhu Xiong
 categories: Research
 ---
-<sub> (上次更新: 2022-七月-12) </sub>
+<sub> (上次更新: 2022-07-12) </sub>
 
 ## 前言 <br/> 
 
