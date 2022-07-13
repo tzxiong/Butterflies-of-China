@@ -11,8 +11,8 @@ categories: Research
 翠凤蝶亚属(*Achillides*)一直是蝴蝶爱好者着迷的类群之一。在中国，最常见的除了碧凤蝶(*Papilio bianor*)，便是分布在山区的绿带翠凤蝶(*Papilio maackii*)。两者在盛夏发生的时候数量极为可观，实是大众蝶。稍罕为人知的是，绿带翠凤蝶在西南山区（横断山脉，云贵高原)有一个后翅带白斑的姐妹种*Papilio syfanius*(西番翠凤蝶)。因为世界上绝大多数翠凤蝶都是乌黑底色，*syfanius*白斑的表型是这个种独有的特征，而其数量也相对稀少，分布和发生都很局限，所以我们对它的了解十分有限，因此，*syfanius*备受世界各地收藏者的追捧，同时还吸引了分类学家对它的关注。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/2022-07-12-maackii-syfanius-files/maackii.jpg?sanitize=true" width="400">
-  <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/2022-07-12-maackii-syfanius-files/syfanius.jpg?sanitize=true" width="400">
+  <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/2022-07-12-maackii-syfanius-files/maackii.jpg?sanitize=true" width="200">
+  <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/2022-07-12-maackii-syfanius-files/syfanius.jpg?sanitize=true" width="200">
 </p>
 
 <p align="center">(左: 绿带翠凤蝶 <i>P. maackii</i>；右：西番翠凤蝶 <i>P. syfanius</i>)</p>
