@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research digest - 西番翠凤蝶=绿带翠凤蝶？
+title: Research digest - 西番翠凤蝶是绿带翠凤蝶吗？
 author: Tianzhu Xiong
 categories: Research
 ---
