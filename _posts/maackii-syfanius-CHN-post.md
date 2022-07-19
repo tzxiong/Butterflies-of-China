@@ -59,5 +59,9 @@ Xiong, T., Li, X., Yago, M. and Mallet, J., 2022. Admixture of evolutionary rate
 
 ### 3. 低海拔=高速分子演化 vs 高海拔=低速分子演化
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/2022-07-12-maackii-syfanius-files/Fig3.jpg?sanitize=true">
+</p>
+
 ### 4. 生殖隔离，基因流，以及不同演化速度的混合
 
