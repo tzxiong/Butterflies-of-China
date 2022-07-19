@@ -47,6 +47,10 @@ Xiong, T., Li, X., Yago, M. and Mallet, J., 2022. Admixture of evolutionary rate
 
 ### 1. 高度分化的核基因组
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/2022-07-12-maackii-syfanius-files/Fig1.jpg?sanitize=true">
+</p>
+
 ### 2. 杂交和熵：如何从少量深度测序的基因组样本中提取生殖隔离的信息
 
 ### 3. 低海拔=高速分子演化 vs 高海拔=低速分子演化
