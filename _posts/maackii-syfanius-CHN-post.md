@@ -63,5 +63,8 @@ Xiong, T., Li, X., Yago, M. and Mallet, J., 2022. Admixture of evolutionary rate
   <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/2022-07-12-maackii-syfanius-files/Fig3.jpg?sanitize=true">
 </p>
 
-### 4. 生殖隔离，基因流，以及不同演化速度的混合
+### 4. 生殖隔离，基因流，以及不同演化速度的融合
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tzxiong/Butterflies-of-China/gh-pages/_posts/2022-07-12-maackii-syfanius-files/Fig4.jpg?sanitize=true">
+</p>
